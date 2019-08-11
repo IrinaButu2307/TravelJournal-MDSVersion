@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Travel_Journal</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_in_with_google">Sign in with google</string>
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="check_in">Check In</string>
+    <string name="trip_name">Trip Name</string>
+    <string name="destination">Destination</string>
+    <string name="trip_type">Trip Type</string>
+    <string name="city_break">City break</string>
+    <string name="sea_side">Sea side</string>
+    <string name="mountains">Mountains</string>
+    <string name="start_date">Start Date</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="end_date">End Date</string>
+    <string name="rating">Rating</string>
+    <string name="save">Save</string>
+    <string name="price_eur">Price(eur)</string>
+    <string name="add_trip">Add Trip</string>
+    <string name="log_out">Log Out</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="check_out">Check out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select">Select</string>
+    <string name="gallery_photo">Gallery Photo</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="cannot_pick">You cannot pick an image from gallery</string>
+    <string name="favourite_trips">Favourite Trips</string>
+    <string name="back">Back to list of trips</string>
+    <string name="price">Price:</string>
+    <string name="eur">Eur</string>
+    <string name="start">Start Date:</string>
+    <string name="end">End Date:</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
